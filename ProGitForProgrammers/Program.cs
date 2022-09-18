@@ -14,6 +14,7 @@ namespace ProGitForProgrammers
 
     public class Calculator
     {
+        //this a test comment
         public int Add(int left, int right) {
             return left + right;
         }
